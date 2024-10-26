@@ -1,0 +1,4 @@
+Tablue is a data visualisation tool.
+It is interactive tool: - means live data feeding according to that the output will be shown
+Basic plugin can be done using excel, websites
+1st step is by ingestion of data
