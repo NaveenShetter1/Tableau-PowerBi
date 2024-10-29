@@ -5,3 +5,12 @@ Basic plugin can be done using excel, websites
 multiple table can be used as a single data source, some times we will merge tables, some times we will keep it seperate.
 here shape of tables also matters while merging tables
 simplest form of data feeding is by excel and tabular format
+--data is new oil, data is heart of everything like for data science data analysis ext.
+
+steps in tableu
+1)Ingestion of data(Tables)
+2)Handling multiple tables
+3)Handling inconsistancy in multiple tables
+4)drawing charts, pie-diagram, histogram ext.
+
+
