@@ -14,3 +14,35 @@ steps in tableu
 4)drawing charts, pie-diagram, histogram ext.
 
 
+Tablue overview :
+
+One of the most widely used data visaulisation tool, Tableua offers visualisation solutions to more than 57000 companies,
+Providing integration for advanced databases, including teradata, SAP, My SQL, Amazon AWS, Hadoop, Tabluea efficiently creates visualisations, graphics from large,
+constantly evolving datasets used for AI, ML and Big data applications.
+
+pros: -
+
+1)excellent visualization capabilities
+2)easy to use
+3)top class performance
+4)supports connectivity with diverse data sources
+5)mobile responsive
+6)has an informative community
+7)drag and drop capability
+
+cons: -
+
+1)Pricing is bit on the higher side
+2)auto refresh and report scheduling options are not available.
+
+
+
+Introduction on tablue
+
+1)it is a reporting tool and it is a data visualization tool where we can see the data in dashboard
+2)it is very easy to connect to different data sources like flat files, databases.
+3)it will take less development time and access data much faster.
+4)connect to your data and perform queries without writing a single line of code
+5)visual analysis in a click powerful analytical tools at your fingertips
+6)tabluea is very easy to learn and easy to use with drag and drop technology
+7)it has a used friendly interface that creates reports that look great right
